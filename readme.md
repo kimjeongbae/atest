@@ -7,7 +7,18 @@
 - [x] 게시글 상세 페이지에는 id에 맞는 게시글 데이터와 목록 버튼이 있다. 목록 버튼을 누르면 게시글 리스트 페이지로 이동하게 된다.
 
 - (추가 기능이나 구현기능설명이 필요한 경우 서술)
+- layout 기능을 추가하여 html을 꾸며줌
+- create 페이지에서 취소 버튼을 만들어서 취소를 누르면 list 페이지로 이동하게 설계
+- ![list페이지.JPG](..%2F..%2FUsers%2FSBS%2FDesktop%2Flist%ED%8E%98%EC%9D%B4%EC%A7%80.JPG)
+list 페이지
+- 
+- ![create 페이지.JPG](..%2F..%2FUsers%2FSBS%2FDesktop%2Fcreate%20%ED%8E%98%EC%9D%B4%EC%A7%80.JPG)
 
+create 페이지
+
+![detail페이지.JPG](..%2F..%2FUsers%2FSBS%2FDesktop%2Fdetail%ED%8E%98%EC%9D%B4%EC%A7%80.JPG)
+
+detail 페이지
 ## 미비사항 or 막힌 부분
 - ...
 
